@@ -109,4 +109,4 @@ The analysis uses a dataset of Kickstarter projects with:
 
 ## 👥 Contributors
 
-- [Xinyi Wang] - Project Lead & Analysis****
+- Xinyi Wang
